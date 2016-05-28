@@ -8,3 +8,4 @@ plugins/
 *.swo
 *.sublime-*
 www/lib
+www/css/style.css
