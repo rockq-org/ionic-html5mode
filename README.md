@@ -11,3 +11,7 @@ gulp serve
 ```
 
 ![](https://github.com/rockq-org/ionic-html5mode/blob/master/docs/1.png)
+
+## theory
+
+http://www.codelord.net/2015/05/12/angularjs-how-to-setup-pushstate-with-html5mode/
